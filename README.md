@@ -11,10 +11,7 @@ This project is the capstone project for the <a href="https://www.coursera.org/p
 ```
 pandas
 numpy
-beautiful Soup
 requests
-ibm_db
-ibm_db_dbi
 matplotlib
 sqlalchemy
 json
