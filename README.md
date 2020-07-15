@@ -3,10 +3,13 @@
 This project is the capstone project for the <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certificate</a> on Coursera.  
 <a href="https://nbviewer.jupyter.org/github/matthewtavares1/Coursera_Capstone/blob/master/capstone.ipynb" target="_blank">NB View of Notebook</a>
   
-## Project Details:
+## Project Details/Report:
 <a href="https://matthew-tavares1.gitbook.io/coursera-capstone/" target="_blank">Link to Gitbook</a>
 
-### Prerequisites
+## Presentation
+<a href="https://docs.google.com/presentation/d/1Wj0GkWCE2qa8biw0OvUrNfCUz17KFtnNqCj8d1Itrus/edit?usp=sharing" target="_blank">Link to View Presentation</a>
+
+## Prerequisites
 
 ```
 pandas
